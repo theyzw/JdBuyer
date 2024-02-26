@@ -95,10 +95,10 @@ class Buyer(object):
 
 if __name__ == '__main__':
 
-    # 商品sku
-    skuId = '100015253059'
+    # 商品sku 尼康Z30
+    skuId = '100028068835'
     # 区域id(可根据工程 area_id 目录查找)
-    areaId = '1_2901_55554_0'
+    areaId = '1_72_2799'
     # 购买数量
     skuNum = 1
     # 库存查询间隔(秒)
